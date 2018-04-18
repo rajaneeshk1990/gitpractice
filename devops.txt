@@ -1,0 +1,20 @@
+1. linux basic commands
+2. git,github
+3. jenkins
+4. maven
+5. junit
+6. sonarquebe
+7. nexus
+8. nagio,zabbix,elk(elasticsearch,logstash,kibana)
+9. chef,ansible, puppet
+10.nginx,apache,apache tomcat
+11.docker
+12.AWS
+
+troubleshooting, loadbalencer 
+
+putty,winscp,filezilla, mputty
+
+
+sudo adduser raj sudo
+
