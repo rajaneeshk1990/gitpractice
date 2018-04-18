@@ -10,6 +10,7 @@
 10.nginx,apache,apache tomcat
 11.docker
 12.AWS
+13.shell
 
 troubleshooting, loadbalencer 
 
