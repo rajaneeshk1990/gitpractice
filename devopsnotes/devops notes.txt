@@ -1,0 +1,72 @@
+admin command in below loc
+home/vagrant/subversion-1.9.4.2/subversion/bin
+
+config ->location
+
+adding repository to conf file
+home/vagrent/subversion-1.9.4.1/apache/conf/httpd.conf
+
+in the file
+edit 
+
+cd subversion 1.9.4.1
+cd apache2
+cd conf
+vi httpd.conf
+SVN patch ""
+cd ../..
+ls
+sh ctlscript.sh restart
+
+open google chrome 
+enter 192.168.33.10:8080
+
+
+3 steps to create repository
+1.go to putty login to the machine.
+2. go to bin folder type sv svnadmin create /home/vagrant/test.
+3.go to htttpd.config go to end(shift g) and change the path name to test.
+then sh ctlscript.sh restart.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cat :--
+it is used to view files and cancatenate files and redirect output to a file 
+ syntax :- cat filename   (displays contents of a file)
+
+cat filename>file1  redirects output into file1
+cat filename>>file1  appends output into file1
+
+mkdir:--
+it is used to create a directory.
+syntax:- mkdir dirname
+
+cd:--
+it is used to change a directory.
+synta:--cd directoryname    1)cd .. 2)cd ../../../.. 3)cd-
+
+mv:--
+it is used to rename a file.
+syn:--mv file1 file2
+
+cp:--copying a file
+syn:--cp file1 file2
+ 
